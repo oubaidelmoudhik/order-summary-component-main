@@ -1,0 +1,47 @@
+body {
+    margin: 0px
+}
+.main-container {
+    min-height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.main-card {
+    width: 450px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.hero-svg{
+    border-radius: 20px 20px 0 0;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2 {
+    font-family: "red hat display";
+    font-weight: 900;
+}
+p {
+    font-family: "red hat display";
+    font-weight: 500;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
