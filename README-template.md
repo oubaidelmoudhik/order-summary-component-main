@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![The Screenshot]([./screenshot.jpeg])
+![The Screenshot](https://github.com/theniceguywastaken/order-summary-component-main/blob/main/Screenshot.jpeg?raw=true)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [You can see my solution here](https://www.frontendmentor.io/solutions/my-solution-to-the-order-summary-card-7sTkd0JsFJ)
+- Live Site URL: [Here](https://theniceguywastaken.github.io/order-summary-component-main/)
 
 ## My process
 
