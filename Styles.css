@@ -2,7 +2,7 @@ body {
     margin: 0px
 }
 .main-container {
-    background-image: url('images/pattern-background-desktop.svg');
+    background-image: url('https://raw.githubusercontent.com/theniceguywastaken/order-summary-component-main/83a95e72efd7995583b9dfe3723f151bf7644c2e/pattern-background-desktop.svg');
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
