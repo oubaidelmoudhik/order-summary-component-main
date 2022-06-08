@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![The Screenshot]([./screenshot.jpg](https://github.com/theniceguywastaken/order-summary-component-main/blob/main/Screenshot.jpeg?raw=true))
+![The Screenshot]([./screenshot.jpeg])
 
 ### Links
 
